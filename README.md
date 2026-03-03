@@ -1,6 +1,6 @@
 # API Web
 
-Une API RESTful simple pour gérer des ressources, développée avec [Spring Boot] (ou toute autre technologie que tu utilises).
+Une API Web simple pour gérer des ressources, développée avec [Spring Boot].
 
 ## Table des matières
 - [Présentation](#présentation)
@@ -12,7 +12,7 @@ Une API RESTful simple pour gérer des ressources, développée avec [Spring Boo
 - [Licence](#licence)
 
 ## Présentation
-Cette API permet de gérer des données via des opérations CRUD (Create, Read, Update, Delete) pour [indiquer les ressources que l'API gère, par exemple, des utilisateurs, des articles, etc.].
+Cette API permet de gérer des données via des opérations CRUD (Create, Read, Update, Delete).
 
 L'API expose des endpoints RESTful pour interagir avec ces données. Elle est construite en utilisant [Spring Boot] (ou autre framework).
 
