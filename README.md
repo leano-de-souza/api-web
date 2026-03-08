@@ -14,7 +14,7 @@ Une API Web simple pour gérer des ressources, développée avec [Spring Boot].
 ## Présentation
 Cette API permet de gérer des données via des opérations CRUD (Create, Read, Update, Delete).
 
-L'API expose des endpoints RESTful pour interagir avec ces données. Elle est construite en utilisant [Spring Boot] (ou autre framework).
+L'API expose des endpoints RESTful pour interagir avec ces données. Elle est construite en utilisant [Spring Boot].
 
 ## Prérequis
 Avant d'installer l'API, tu dois t'assurer d'avoir les logiciels suivants installés :
